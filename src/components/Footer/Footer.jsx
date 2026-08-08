@@ -356,8 +356,8 @@ export default function Footer({
         <div className="mcf-bottom">
           <p>© {year} Mikecom Computers and Electronics Inc. All rights reserved.</p>
           <ul className="mcf-bottom-links">
-            <li><a href="#">Privacy Policy</a></li>
-            <li><a href="#">Terms of Service</a></li>
+            <li><span style={{ cursor: "default" }}>Privacy Policy</span></li>
+            <li><span style={{ cursor: "default" }}>Terms of Service</span></li>
           </ul>
         </div>
       </footer>

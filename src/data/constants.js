@@ -54,7 +54,7 @@ export const SERVICES = [
     icon: "🚨",
     title: "Intrusion & Alarm Systems",
     items: [
-      "Alarm installation and programming",
+      "Alarm installation/programming",
       "Monitoring integration",
       "System upgrades",
     ],
